@@ -1,0 +1,4 @@
+cron:
+- description: running every 2 hours
+  url: /
+  schedule: every day 20:00
